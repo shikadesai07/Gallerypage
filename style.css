@@ -1,0 +1,107 @@
+.nb{
+    margin-left: auto;
+}
+.nv{
+    margin: auto;
+}
+.p2{
+    padding: 7rem;
+    margin: auto;
+}
+.newimg{
+    border-radius: 100%;
+    width: 30%;
+}
+
+.p22{
+    text-align: center;
+    padding: 1rem;
+}
+h2{
+    font-size: 1rem;
+}
+.btn1{
+    margin-top: 1.5rem;
+    padding: 0.5rem 2rem;
+}
+
+
+.p3img{
+    vertical-align: middle;
+    width: 100%;
+    margin: auto;
+display: flex;
+justify-content: center;
+align-content: center;
+}
+.part31{
+    vertical-align: middle;
+    width: 50%;
+
+display: flex;
+justify-content: center;
+align-content: center;
+flex-direction: column;
+
+ 
+}
+h2{
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 1rem;
+}
+#part3{
+    padding: 4rem 0;
+}
+.part311{
+
+    font-size: 3rem;
+ 
+}
+.part322{
+ 
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 1rem;
+    
+
+}
+#main{
+    padding: 0 5rem;
+}
+.rr{
+    text-align: center;
+}
+span{
+    color: grey;
+}
+@media(max-width:1028px)
+{
+    .part311{
+        font-size: 2rem;
+
+    }
+    .part322{
+
+        font-size: 0.8rem;
+       width: 100%;
+       margin: auto;
+    
+    }
+    .r{
+        margin: 0%;
+    }
+    .r1{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .part31{
+        width: 100%;
+    }
+    .part311{
+        padding: 0%;
+    }
+    .part322{
+        padding-bottom: 2rem;
+    }
+}
